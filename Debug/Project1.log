@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\smoyz\source\repos\project1\project1\source.cpp(109): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\smoyz\source\repos\project1\project1\source.cpp(111): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\smoyz\source\repos\project1\project1\source.cpp(122): warning C4018: <: несоответствие типов со знаком и без знака
+  Project1.vcxproj -> C:\Users\smoyz\source\repos\Project1\Debug\korrelat.exe
